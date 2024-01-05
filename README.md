@@ -1,4 +1,4 @@
-# This is my beudiful documentation
+# This is my beautiful documentation :pencil2:
 
 ## Things I want to include:
 
